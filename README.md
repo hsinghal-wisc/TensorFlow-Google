@@ -1,14 +1,7 @@
 
-2 Parts:
+2 Parts - 
 
-
-Multiplicaton of large matrices
-Logistic Regression - Machine Learning using Synchronous and Asynchronous Stochastic Gradient Descent
-
-
-
-
-Matrix Multiplication
+Matrix Multiplication :
 
 Find the trace (sum of diagonal elements) of square of a random n×n matrix, A, where n=100,000
 Unlike Spark, TF does not provide a big-data abstraction. So we have to break down the large matrix (or generate
@@ -26,7 +19,7 @@ Optimisation - Distribute the trace evenly across the cluster.
 
 
 
-Logistic Regression
+Logistic Regression :
 
 Implemented Binary Logistic Regression (LR) to learn a model for predicting if a user will click on
 advertisement or not. 
