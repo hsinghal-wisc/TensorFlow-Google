@@ -1,7 +1,7 @@
 
 2 Parts:
 =======
-Matrix Multiplication
+1.Matrix Multiplication
 
 1.Multiplicaton of large matrices
 2.Logistic Regression - Machine Learning using Synchronous and Asynchronous Stochastic Gradient Descent
@@ -20,8 +20,7 @@ The trace of A2 can now be computed as
 Run file - python bigmatrixmultiplication.py (simple to understand code, running time around 4 minutes)
 Optimisation - Distribute the trace evenly across the cluster.
 
-=======
-Synchronous SGD
+
 
 2.Logistic Regression
 Implemented Binary Logistic Regression (LR) to learn a model for predicting if a user will click on
@@ -43,7 +42,6 @@ b.Used scatter add to optimize the addition of a dense tensor 'w' and the gradie
 
 
 (ii)Asynchronous SGD
-=======
 Asynchronous SGD
 
 ./launch_asyncsgd.sh (launches asyncsgd.py)
