@@ -1,4 +1,4 @@
-1. Matrix Multiplication
+Matrix Multiplication
 
 python bigmatrixmultiplication.py (simple to understand code, taking around 4 minutes)
 
@@ -7,7 +7,7 @@ Formula used
 tr(A2)=∑i∑jtr(AijAji)
 Optimisation - Distribute the trace evenly across the cluster.
 
-2. Synchronous SGD
+Synchronous SGD
 
 python synchronoussgd.py
 
@@ -21,7 +21,7 @@ can lead to 100 times optimisation due to reduction in NW transfers
 b.Used scatter add to optimize the addition of a dense tensor 'w' and the gradient received as a sparse tensor.
 
 
-3. Asynchronous SGD
+Asynchronous SGD
 
 ./launch_asyncsgd.sh (launches asyncsgd.py)
 
