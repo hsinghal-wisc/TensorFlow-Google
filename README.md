@@ -49,7 +49,6 @@ b.Used scatter add to optimize the addition of a dense tensor 'w' and the gradie
 
 
 (ii)Asynchronous SGD
-Asynchronous SGD
 
 ./launch_asyncsgd.sh (launches asyncsgd.py)
 
