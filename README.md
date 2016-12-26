@@ -3,9 +3,7 @@
 
 
 Multiplicaton of large matrices
-=======
 Logistic Regression - Machine Learning using Synchronous and Asynchronous Stochastic Gradient Descent
-=======
 
 
 
