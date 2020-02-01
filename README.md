@@ -1,5 +1,5 @@
 
-2 Parts - 
+2 Parts -
 
 1.Matrix Multiplication :
 
@@ -15,7 +15,6 @@ The trace of A2 can now be computed as
 
 Run file - python bigmatrixmultiplication.py (simple to understand code, running time around 4 minutes)
 Optimisation - Distribute the trace evenly across the cluster.
-
 
 
 
@@ -51,4 +50,4 @@ Implementation details:
 All the decision taken in Sync mode applies here. In addition we did:
 All the session were executed in vm-1 task-0
 
-(iii)The above implementations can be optimised and generalised further (for eg. batch processing)
+(iii)The above implementations can be optimised and generalise further (for eg. batch processing)
